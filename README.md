@@ -56,3 +56,6 @@
 
 [[28] Multicall in Solana: Batching Transactions](./batch/)
 
+[29] Owner vs Authority
+
+[[30] Deleting Accounts and Closing Programs](./close_program/)
