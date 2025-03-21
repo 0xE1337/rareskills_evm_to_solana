@@ -46,3 +46,5 @@
 
 [[23] Building a payment splitter: “payable” and “msg.value” in Solana](./sol_splitter/)
 
+[[24] Authorizing various wallets to write to an account: "Pranking tx.origin"](./24/)
+
