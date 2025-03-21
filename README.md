@@ -48,3 +48,4 @@
 
 [[24] Authorizing various wallets to write to an account: "Pranking tx.origin"](./24/)
 
+[[25] PDA vs Keypair Accounts](./keypair_vs_pda/)
