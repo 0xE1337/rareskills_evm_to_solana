@@ -64,3 +64,4 @@
 
 [[32] Reading Another Anchor Program’s Account Data On Chain](./32/)
 
+[[33] Cross Program Invocation](./bob/)
