@@ -10,6 +10,28 @@ pub mod basic_storage {
     pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
         Ok(())
     }
+
+    pub fn set(ctx: Context<Set>, new_x: u64) -> Result<()> {
+        ctx.accounts.my_storage.x = new_x;
+        Ok(())
+    }
+
+    pub fn print_x(ctx: Context<PrintX>) -> Result<()> {
+        let x = ctx.accounts.my_storage.x;
+        msg!("The value of x is {}", x);
+        Ok(())
+    }
+}
+
+#[derive(Accounts)]
+pub struct Set<'info> {
+    #[account(mut, seeds = [], bump)]
+    pub my_storage: Account<'info, MyStorage>,
+}
+
+#[derive(Accounts)]
+pub struct PrintX<'info> {
+    pub my_storage: Account<'info, MyStorage>,
 }
 
 #[derive(Accounts)]
