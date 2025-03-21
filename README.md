@@ -52,4 +52,7 @@
 
 [[26] Understanding Account Ownership in Solana: Transferring SOL out of a PDA](./26/)
 
+[[27] init_if_needed and the Reinitialization Attack](./27/)
+
+
 
