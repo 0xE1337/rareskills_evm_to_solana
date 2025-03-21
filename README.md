@@ -61,3 +61,6 @@
 [[30] Deleting Accounts and Closing Programs](./close_program/)
 
 [[31] Account types in #[derive(Accounts)]](./account_types/)
+
+[[32] Reading Another Anchor Program’s Account Data On Chain](./32/)
+
