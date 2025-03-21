@@ -40,7 +40,7 @@
 
 [[20] Cost of storage, maximum storage size, and account resizing](./rent/)
 
-[[21]Reading an account balance in Rust: address(account).balance in Solana]()
+[[21]Reading an account balance in Rust: address(account).balance in Solana](./balance/)
 
 
 
