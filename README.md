@@ -40,7 +40,9 @@
 
 [[20] Cost of storage, maximum storage size, and account resizing](./rent/)
 
-[[21]Reading an account balance in Rust: address(account).balance in Solana](./balance/)
+[[21] Reading an account balance in Rust: address(account).balance in Solana](./balance/)
 
+[22] More differences: modifiers, view pure, payable, and fallback in Solana
 
+[[23] Building a payment splitter: “payable” and “msg.value” in Solana](./sol_splitter/)
 
