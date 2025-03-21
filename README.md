@@ -54,5 +54,5 @@
 
 [[27] init_if_needed and the Reinitialization Attack](./27/)
 
-
+[[28] Multicall in Solana: Batching Transactions](./batch/)
 
