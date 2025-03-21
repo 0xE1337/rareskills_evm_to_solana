@@ -38,7 +38,7 @@
 
 [[19] Creating mappings and nested mappings in Solana](./example_map/)
 
-[[20] Cost of storage, maximum storage size, and account resizing]()
+[[20] Cost of storage, maximum storage size, and account resizing](./rent/)
 
 [[21]Reading an account balance in Rust: address(account).balance in Solana]()
 
