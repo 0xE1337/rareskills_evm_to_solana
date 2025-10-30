@@ -1,0 +1,31 @@
+# Rust/Cargo build artifacts
+target/
+**/*.rs.bk
+*.pdb
+
+# Anchor
+.anchor
+.DS_Store
+test-ledger/
+.yarn/
+
+# Node
+node_modules/
+dist/
+build/
+
+# IDEs
+.idea/
+.vscode/
+.claude/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
